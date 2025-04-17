@@ -10,7 +10,7 @@ import { Component, signal } from '@angular/core';
       </a>
     </div>
 
-    <h2>Analog</h2>
+    <h2>BC stats</h2>
 
     <h3>The fullstack meta-framework for Angular!</h3>
 
